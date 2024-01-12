@@ -12,12 +12,13 @@ FilmFusion is a comprehensive Flutter movie app delivering personalized recommen
 **Android Studio:** The official IDE for Android development.
 
 ## App Preview
-![1](https://github.com/tanuj430/FilmFusion/assets/71175428/72478d35-0f9b-4b7a-ab87-aa24cdd3208c)
-![7](https://github.com/tanuj430/FilmFusion/assets/71175428/214b4c7e-01a7-474f-9928-86820a5c2a44)
-![3](https://github.com/tanuj430/FilmFusion/assets/71175428/3f58aff7-fb22-4544-b15d-6ee30a543f5d)
-![4](https://github.com/tanuj430/FilmFusion/assets/71175428/10835c1b-be19-41e2-b3d0-2963846706a2)
-![5](https://github.com/tanuj430/FilmFusion/assets/71175428/5eb83bf2-89c4-486f-a668-a02588debfba)
-![2](https://github.com/tanuj430/FilmFusion/assets/71175428/a77c343b-917f-497c-ba01-e248e89e5b34)
+![1](https://github.com/tanuj430/FilmFusion/assets/71175428/385bade3-c259-4f70-b00b-96acb78d3c69)
+![new](https://github.com/tanuj430/FilmFusion/assets/71175428/b41d34cc-329c-4db4-9049-bbca48de03a0)
+![7](https://github.com/tanuj430/FilmFusion/assets/71175428/cf6ab98c-b864-43e5-abed-cb7437c0d3ed)
+![4](https://github.com/tanuj430/FilmFusion/assets/71175428/76a67ca1-443b-464e-905e-b99978cad273)
+![5](https://github.com/tanuj430/FilmFusion/assets/71175428/2fe151e8-96e3-4fb4-a743-3e65ac8a117a)
+![new](https://github.com/tanuj430/FilmFusion/assets/71175428/3c670d1b-bece-47bd-97ae-e7669ace597d)
+
 
 
 ## 📥 Apps's video preview:
