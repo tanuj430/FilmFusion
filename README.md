@@ -17,7 +17,8 @@ FilmFusion is a comprehensive Flutter movie app delivering personalized recommen
 ![7](https://github.com/tanuj430/FilmFusion/assets/71175428/cf6ab98c-b864-43e5-abed-cb7437c0d3ed)
 ![4](https://github.com/tanuj430/FilmFusion/assets/71175428/76a67ca1-443b-464e-905e-b99978cad273)
 ![5](https://github.com/tanuj430/FilmFusion/assets/71175428/2fe151e8-96e3-4fb4-a743-3e65ac8a117a)
-![new](https://github.com/tanuj430/FilmFusion/assets/71175428/3c670d1b-bece-47bd-97ae-e7669ace597d)
+![2](https://github.com/tanuj430/FilmFusion/assets/71175428/8961d77b-3c23-40e0-b935-3e5466135fe1)
+
 
 
 
