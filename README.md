@@ -23,7 +23,7 @@ FilmFusion is a comprehensive Flutter movie app delivering personalized recommen
 
 
 ## 📥 Apps's video preview:
-Stay tuned for the app's video preview, coming soon!
+[app's video preview](https://www.linkedin.com/feed/update/urn:li:activity:7151859672524668928/?commentUrn=urn%3Ali%3Acomment%3A(ugcPost%3A7151859553188384769%2C7151860495463944192)&dashCommentUrn=urn%3Ali%3Afsd_comment%3A(7151860495463944192%2Curn%3Ali%3AugcPost%3A7151859553188384769))
 
 ## 📥 Download and install FilmFusion app:
 Google Drive Link (Size: 21 MB): 
