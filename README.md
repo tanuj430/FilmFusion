@@ -25,10 +25,10 @@ FilmFusion is a comprehensive Flutter movie app delivering personalized recommen
 ## 📥 Apps's video preview:
 Stay tuned for the app's video preview, coming soon!
 
-## 📥 Download and install FlutterNews app:
+## 📥 Download and install FilmFusion app:
+Google Drive Link (Size: 21 MB): 
+https://drive.google.com/file/d/1oqBq_CPyLN2Iq-0eGG5h_NruxiuIyp1A/view?usp=sharing
 
-Google Drive Link (Size: 20 MB):
-coming soon
 
 ## Installation
 
@@ -49,4 +49,3 @@ Click on the Run button in Android Studio.
 
 ## Feedback
 If you have any feedback, please reach out to me at tanujyadav430@gmail.com
-Join the NewsPulse Flutter community and stay updated with the latest news effortlessly using this intuitive Flutter app! 📰📱
